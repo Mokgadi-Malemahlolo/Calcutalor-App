@@ -18,7 +18,7 @@ Perform basic operations: addition, subtraction, multiplication, and division
 ---
  ##🚀 Live Demo
 
-Try the calculator here [
+Try the calculator here [https://mokgadi-malemahlolo.github.io/Calcutalor-App/]
 
 ---
 ##👩🏾‍💻 About the Developer
